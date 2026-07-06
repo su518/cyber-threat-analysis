@@ -1,0 +1,11 @@
+country,year,attack_type,target_industry,financial_loss_in_million_,number_of_affected_users,attack_source,security_vulnerability_type,defense_mechanism_used,incident_resolution_time_in_hours,is_anomaly
+Germany,2016,Phishing,Telecommunications,99.98,761576,Insider,Unpatched Software,Antivirus,9,1
+Germany,2019,Phishing,Healthcare,99.97,950451,Hacker Group,Weak Passwords,AI-based Detection,29,1
+USA,2016,Ransomware,Telecommunications,99.88,999508,Unknown,Unpatched Software,VPN,23,1
+Japan,2020,DDoS,Education,99.83,10859,Nation-state,Social Engineering,AI-based Detection,66,1
+USA,2020,DDoS,Banking,99.81,948174,Unknown,Social Engineering,AI-based Detection,4,1
+France,2018,Phishing,Retail,99.78,860459,Hacker Group,Social Engineering,AI-based Detection,11,1
+Australia,2023,Malware,Retail,99.72,307143,Hacker Group,Social Engineering,VPN,1,1
+Australia,2015,Malware,Retail,99.41,120048,Insider,Zero-day,Antivirus,12,1
+India,2018,Malware,Education,99.09,395264,Unknown,Weak Passwords,Antivirus,5,1
+USA,2023,SQL Injection,Banking,98.91,995462,Unknown,Unpatched Software,Firewall,33,1
